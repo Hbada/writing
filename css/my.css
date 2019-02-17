@@ -48,6 +48,11 @@ form {
 footer.container {
   background-color: #777;
 }
+.form-group {
+  margin: 10px;
+}
+
+/* footer */
 
 footer p {
   font-size: .9rem;
