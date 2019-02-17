@@ -38,6 +38,11 @@ img.portfolio {
   border: 2px solid #ddd;
 }
 
+/* contact page */
+form {
+  background-color: cornsilk;
+}
+
 /* footer */
 
 footer.container {
