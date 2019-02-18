@@ -51,6 +51,10 @@ footer.container {
 .form-group {
   margin: 10px;
 }
+#submit-button input {
+  margin: 10px auto;
+  background-color: green;
+}
 
 /* footer */
 
