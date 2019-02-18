@@ -63,6 +63,7 @@ textarea {
 
 #submit-button input:hover {
   background-color: forestgreen;
+  cursor: pointer; // formspree.io function works cursor doesn't become pointer by default
 }
 
 /**********     footer     *************/
