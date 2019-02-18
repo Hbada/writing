@@ -30,7 +30,7 @@ hr {
   background: teal;
 }
 
-/* portfolio page */
+/**********      portfolio page     *******/
 
 img.portfolio {
   width: 100%;
@@ -38,25 +38,31 @@ img.portfolio {
   border: 2px solid #ddd;
 }
 
-/* contact page */
+/*********     contact page     *******/
 form {
   background-color: cornsilk;
 }
 
-/* footer */
+/*******     form     *********/
 
 footer.container {
   background-color: #777;
 }
+
 .form-group {
   margin: 10px;
 }
+
+.form-group input {
+  margin-top: 20px;
+}
+
 #submit-button input {
   margin: 10px auto;
   background-color: green;
 }
 
-/* footer */
+/**********     footer     *************/
 
 footer p {
   font-size: .9rem;
