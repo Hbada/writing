@@ -58,7 +58,7 @@ footer.container {
 }
 
 #submit-button input {
-  margin: 10px auto;
+  margin-left: 40px;
   background-color: green;
 }
 
