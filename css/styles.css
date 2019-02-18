@@ -40,13 +40,11 @@ img.portfolio {
 
 /*********     contact page     *******/
 form {
-  background-color: cornsilk;
+  background-color: mediumturquoise;
 }
 
-/*******     form     *********/
-
-footer.container {
-  background-color: #777;
+form:hover {
+  cursor: 
 }
 
 .form-group {
@@ -67,6 +65,10 @@ textarea {
 }
 
 /**********     footer     *************/
+
+footer.container {
+  background-color: #777;
+}
 
 footer p {
   font-size: .9rem;
