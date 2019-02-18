@@ -57,6 +57,10 @@ footer.container {
   margin-top: 20px;
 }
 
+textarea {
+  float: left;
+}
+
 #submit-button input {
   margin-left: 40px;
   background-color: green;
