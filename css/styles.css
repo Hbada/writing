@@ -44,7 +44,7 @@ form {
 }
 
 form:hover {
-  cursor: 
+  cursor: url('img/icons8-checkmark-52.png');
 }
 
 .form-group {
