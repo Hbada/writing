@@ -58,7 +58,7 @@ footer.container {
 }
 
 textarea {
-  float: left;
+  display: block; // to force it text box onto new line
 }
 
 #submit-button input {
