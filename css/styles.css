@@ -51,8 +51,9 @@ form {
   margin-top: 20px;
 }
 
+.form-group input,
 textarea {
-  display: block; // to force it text box onto new line
+  display: block; // to consistently move input boxes onto new line
 }
 
 #submit-button input {
