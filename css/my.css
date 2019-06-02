@@ -1,0 +1,38 @@
+body {
+  font-family: 'Source Sans Pro';
+}
+
+div.container {
+  max-width: 700px;
+  width: 80%; /* combined with max-width above and margin ...auto below,
+      makes body centred and not full width, and closer to edge when <700px wide */
+  padding: 20px; /* this puts a padding inside the body box */
+  margin: 10px auto;
+}
+
+author {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+hr {
+  background: teal;
+}
+
+/* portfolio page */
+
+img.portfolio {
+  width: 100%;
+  padding: 2%;
+  border: 2px solid #ddd;
+}
+
+/* footer */
+
+footer.container {
+  background-color: #777;
+}
+
+footer p {
+  font-size: .9rem;
+}
